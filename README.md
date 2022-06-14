@@ -1,6 +1,6 @@
 [
   {
-    "img": "https://assets.myket.ir/apks/myket-909.apk",
+    "img": "https://tinroid.ir/images/icons/180_myket-icon.webp",
     "name ": "مایکت"
   }
 ]
